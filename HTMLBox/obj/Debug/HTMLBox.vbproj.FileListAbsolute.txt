@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\bin\Debug\HTMLBox.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\bin\Debug\HTMLBox.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\bin\Debug\HTMLBox.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\bin\Debug\HTMLBox.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\obj\Debug\HTMLBox.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\obj\Debug\HTMLBox.Main.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\obj\Debug\HTMLBox.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\obj\Debug\HTMLBox.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\obj\Debug\HTMLBox.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\obj\Debug\HTMLBox.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\obj\Debug\HTMLBox.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\HTMLBox\HTMLBox\obj\Debug\HTMLBox.pdb
